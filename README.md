@@ -14,11 +14,14 @@ MANUAL SCRIPT
 - There are multiple pages like change password, enroll in a course, enrollment history, and user profile.
 
 You can use these users' credintials as a login test
+
 login id: 10806121
 Pass: ahmed111
+
 --------------------------
 login id: 12345
 Pass: mohamed222
+
 -------------------------
 login id: 125966
 Pass: test333
